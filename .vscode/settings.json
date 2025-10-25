@@ -1,0 +1,24 @@
+{
+  "editor.codeActionsOnSave": {
+    "source.fixAll": "explicit",
+    "source.organizeImports": "explicit",
+    "source.sortMembers": "explicit"
+  },
+  "cSpell.words": [
+    "biotext",
+    "chatbox",
+    "postactions",
+    "postavatar",
+    "postbio",
+    "postcontent",
+    "postheader",
+    "postimage",
+    "postsection",
+    "posttitle",
+    "postusername",
+    "Pressable",
+    "storyimage",
+    "usernametext",
+    "Varnan"
+  ]
+}

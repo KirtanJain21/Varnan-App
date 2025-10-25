@@ -1,0 +1,18 @@
+{
+  "extends": "expo/tsconfig.base",
+  "compilerOptions": {
+    "strict": true,
+    "paths": {
+       
+      "@/*": [
+        "./*"
+      ]
+    }
+  },
+  "include": [
+    "**/*.ts",
+    "**/*.tsx",
+    ".expo/types/**/*.ts",
+    "expo-env.d.ts"
+, "services/imageService.js", "components/RichTextEditor.jsx", "components/PostCard.jsx", "services/postService.js", "services/userServices.js", "helpers/common.ts", "helpers/storage.js", "context/AuthContext.jsx", "components/ScreenWrapper.jsx", "components/Avatar.jsx", "components/Button.jsx", "components/Icons.jsx", "components/Input.jsx", "components/Loading.jsx", "components/BackButton.jsx", "constants/theme.ts", "app/(by)/Maker.jsx", "app/Welcome.tsx", "app/SignUp.jsx", "app/Login.tsx", "app/index.jsx", "app/+not-found.jsx", "app/_layout.jsx", "app/(user)/Saved.jsx", "app/(user)/EditProfile.jsx", "app/(user)/_layout.jsx", "app/(main)/_layout.jsx", "app/(main)/CreatePost.jsx", "app/(main)/Home.jsx", "app/(main)/Messages.jsx", "app/(main)/Notifications.jsx", "app/(main)/Profile.jsx", "framework/supabase.js", "framework/supabase-client.js", "framework/supabase-server.js"  ]
+}
