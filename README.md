@@ -244,7 +244,7 @@ All rights reserved — copying, modification, or redistribution is not permitte
 
 
 
-##🌟 Acknowledgments
+## 🌟 Acknowledgments
 
 Expo
 
